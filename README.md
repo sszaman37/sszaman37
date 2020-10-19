@@ -2,7 +2,7 @@
 ### Hey there, I'm Saadat 👋
 
 [![Website](https://img.shields.io/website?label=saadatzaman.com&style=for-the-badge&url=https%3A%2F%2Fsaadatzaman.com)](https://saadatzaman.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/saadatzaman?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F_saadatzaman&screen_name=_saadatzaman)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_saadatzaman?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F_saadatzaman&screen_name=_saadatzaman)
 
 
 ### Connect with me:
