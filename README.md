@@ -1,8 +1,8 @@
 
 ### Hi there, I'm Saadat 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://saadatzaman.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=_saadatzaman)
+[![Website](https://img.shields.io/website?label=saadatzaman.com&style=for-the-badge&url=https%3A%2F%2Fsaadatzaman.com)](https://saadatzaman.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/saadatzaman?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F_saadatzaman&screen_name=_saadatzaman)
 
 
 ### Connect with me:
@@ -33,8 +33,6 @@
 <br />
 
 ---
-
-
 [website]: https://saadatzaman.com
 [twitter]: https://twitter.com/_saadatzaman
 [instagram]: https://instagram.com/saadatzaman37
